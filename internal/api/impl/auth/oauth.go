@@ -35,7 +35,7 @@ import (
 	"github.com/perses/perses/pkg/model/api/config"
 	v1 "github.com/perses/perses/pkg/model/api/v1"
 	"github.com/sirupsen/logrus"
-	"github.com/zitadel/oidc/v3/pkg/oidc"
+	"github.com/bjackman/oidc/v3/pkg/oidc"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/clientcredentials"
 )

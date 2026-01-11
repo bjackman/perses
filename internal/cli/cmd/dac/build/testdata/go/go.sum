@@ -44,8 +44,8 @@ github.com/rogpeppe/go-internal v1.14.1 h1:UQB4HGPB6osV0SQTLymcB4TgvyWu6ZyliaW0t
 github.com/rogpeppe/go-internal v1.14.1/go.mod h1:MaRKkUm5W0goXpeCfT7UZI6fk/L7L7so1lCWt35ZSgc=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
-github.com/zitadel/oidc/v3 v3.45.1 h1:x7J8NywTUtLR9T5uu2dufae3gJrl6VVpIfvGZy+kzJg=
-github.com/zitadel/oidc/v3 v3.45.1/go.mod h1:oFArtAPTXEA4ajkIe/JfBjv7hhlD0kr///UqaO3Uzd0=
+github.com/bjackman/oidc/v3 v3.45.1 h1:x7J8NywTUtLR9T5uu2dufae3gJrl6VVpIfvGZy+kzJg=
+github.com/bjackman/oidc/v3 v3.45.1/go.mod h1:oFArtAPTXEA4ajkIe/JfBjv7hhlD0kr///UqaO3Uzd0=
 github.com/zitadel/schema v1.3.1 h1:QT3kwiRIRXXLVAs6gCK/u044WmUVh6IlbLXUsn6yRQU=
 github.com/zitadel/schema v1.3.1/go.mod h1:071u7D2LQacy1HAN+YnMd/mx1qVE2isb0Mjeqg46xnU=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=

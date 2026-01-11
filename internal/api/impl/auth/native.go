@@ -25,7 +25,7 @@ import (
 	"github.com/perses/perses/internal/api/route"
 	"github.com/perses/perses/internal/api/utils"
 	"github.com/perses/perses/pkg/model/api"
-	"github.com/zitadel/oidc/v3/pkg/oidc"
+	"github.com/bjackman/oidc/v3/pkg/oidc"
 	"golang.org/x/oauth2"
 )
 

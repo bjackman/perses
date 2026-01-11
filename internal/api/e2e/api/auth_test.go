@@ -31,7 +31,7 @@ import (
 	"github.com/perses/perses/pkg/model/api/v1/common"
 	"github.com/perses/perses/pkg/model/api/v1/secret"
 	"github.com/stretchr/testify/assert"
-	"github.com/zitadel/oidc/v3/pkg/oidc"
+	"github.com/bjackman/oidc/v3/pkg/oidc"
 	"golang.org/x/oauth2"
 )
 

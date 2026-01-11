@@ -34,7 +34,7 @@ import (
 	"github.com/perses/perses/pkg/model/api"
 	"github.com/perses/perses/pkg/model/api/config"
 	"github.com/sirupsen/logrus"
-	"github.com/zitadel/oidc/v3/pkg/oidc"
+	"github.com/bjackman/oidc/v3/pkg/oidc"
 	"golang.org/x/oauth2"
 )
 
