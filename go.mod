@@ -6,6 +6,7 @@ require (
 	cuelang.org/go v0.15.3
 	github.com/PaesslerAG/gval v1.2.4
 	github.com/PaesslerAG/jsonpath v0.1.2-0.20240726212847-3a740cf7976f
+	github.com/bjackman/oidc/v3 v3.0.0-20260111163022-e5b8aa81492d
 	github.com/brunoga/deep v1.2.5
 	github.com/charmbracelet/huh v0.8.0
 	github.com/efficientgo/core v1.0.0-rc.3
@@ -38,7 +39,6 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.18.0
-	github.com/zitadel/oidc/v3 v3.45.1
 	golang.org/x/crypto v0.46.0
 	golang.org/x/exp v0.0.0-20251219203646-944ab1f22d93
 	golang.org/x/mod v0.31.0
